@@ -4,7 +4,7 @@
 - **Languages:** Java, Python, C++, JavaScript, GO, SQL
 - **Frameworks & Libraries:** React, Express, Node.js, Spring Boot
 - **Databases:** MongoDB, PostgreSQL, Microsoft SQL Server, Cosmos DB
-- **Tools & Platforms:** Git, Docker, Jenkins, Selenium, Streamlit
+- **Tools & Platforms:** Git, AWS, Docker, Jenkins, Selenium, Streamlit
 
 <!---
 vaibjain11/vaibjain11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
